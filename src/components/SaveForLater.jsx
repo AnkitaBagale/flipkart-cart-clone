@@ -8,7 +8,9 @@ export const SaveForLater = () => {
 	return (
 		<div>
 			<hr />
+			<br />
 			<h3 className='max-width-container'>Saved for later</h3>
+			<br />
 			{savedItems.length === 0 && (
 				<p className='max-width-container'>No items saved</p>
 			)}
