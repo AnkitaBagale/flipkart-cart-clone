@@ -25,11 +25,11 @@ export const CartDetails = () => {
 		<div className='cart-details max-width-container'>
 			<br />
 			<div>
-				Price ({cartItems.length}item): {price}
+				Price ({cartItems.length}item): Rs. {price}
 			</div>
-			<div>Total Discount: {discount}</div>
+			<div>Total Discount: - Rs. {discount}</div>
 			<hr />
-			<div>Total Amount: {finalPrice}</div>
+			<div>Total Amount: Rs. {finalPrice}</div>
 			<br />
 		</div>
 	);
