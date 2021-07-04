@@ -5,8 +5,6 @@ export const CartDetails = () => {
 		state: { cartItems },
 	} = useDataContext();
 
-	console.log({ cartItems });
-
 	const { price, discount, finalPrice } = cartItems.reduce(
 		(cartValue, item) => {
 			const itemPrice = item.price * item.quantity;
