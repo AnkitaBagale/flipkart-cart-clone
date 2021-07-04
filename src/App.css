@@ -73,7 +73,6 @@ body {
 .btn-outline {
 	border: 1px solid var(--primary-color);
 	padding: 0.5rem 1rem;
-	border: none;
 	cursor: pointer;
 	background-color: transparent;
 }
