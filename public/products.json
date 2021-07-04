@@ -1,0 +1,58 @@
+{
+    "products":[
+        {
+            "_id":"1",
+            "name":"Solid Men Mandarin Collar Black T-Shirt",
+            "image":"https://rukminim1.flixcart.com/image/452/542/k69ncsw0/t-shirt/h/4/h/l-t15-seven-rocks-original-imafzrht8zrrmxam.jpeg?q=50",
+            "brand":"Seven Rocks",
+            "price":399,
+            "discount":0,
+            "size":"L"
+        },
+        {
+            "_id":"2",
+            "name":"Color Block Men Round Neck Multicolor T-Shirt",
+            "image":"https://rukminim1.flixcart.com/image/452/542/kfk0e4w0-0/t-shirt/c/l/0/xxl-tblwtylrn-d27-tripr-original-imafvzjm8gs3kyga.jpeg?q=50",
+            "brand":"TRIPR",
+            "price":1299,
+            "discount":73,
+            "size":"L"
+        },
+        {
+            "_id":"3",
+            "name":"Solid Men Mandarin Collar Dark Blue T-Shirt",
+            "image":"https://rukminim1.flixcart.com/image/452/542/k69ncsw0/t-shirt/6/j/c/3xl-t15-seven-rocks-original-imafzrhthhpr4hne.jpeg?q=50",
+            "brand":"Seven Rocks",
+            "price":799,
+            "discount":20,
+            "size":"L"
+        },
+        {
+            "_id":"4",
+            "name":"Solid Men Mandarin Collar Black T-Shirt",
+            "image":"https://rukminim1.flixcart.com/image/452/542/klscivk0/shirt/5/f/s/m-maw20csh072b-metronaut-original-imagyu6ffvkrbxy6.jpeg?q=50",
+            "brand":"Seven Rocks",
+            "price":580,
+            "discount":5,
+            "size":"L"
+        },
+        {
+            "_id":"5",
+            "name":"Solid Men Black Pant",
+            "image":"https://rukminim1.flixcart.com/image/452/542/kfbfr0w0-0/trouser/x/w/n/32-astfwsrfl67011-allen-solly-original-imafvsx3hcrhgtwc.jpeg?q=50",
+            "brand":"Seven Rocks",
+            "price":1800,
+            "discount":10,
+            "size":"L"
+        },
+        {
+            "_id":"6",
+            "name":"Solid Men Black T-Shirt",
+            "image":"https://rukminim1.flixcart.com/image/452/542/kl6wx3k0/t-shirt/y/n/i/s-bbt-try-this-original-imagydarhsryeahn.jpeg?q=50",
+            "brand":"Seven Rocks",
+            "price":499,
+            "discount":0,
+            "size":"L"
+        }
+    ]
+}
