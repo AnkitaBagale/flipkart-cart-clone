@@ -8,7 +8,7 @@ export const Cart = () => {
 	} = useDataContext();
 	return (
 		<div>
-			<h1 className='max-width-container'>Cart</h1>
+			<h1 className='max-width-container'>Cart: {cartItems.length} items</h1>
 			{cartItems.map((item) => (
 				<CartItemCard key={item._id} product={item} />
 			))}
