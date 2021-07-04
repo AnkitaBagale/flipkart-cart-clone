@@ -49,7 +49,7 @@ export const SavedItemCard = ({ product }) => {
 				<button className='btn-primary' onClick={moveToCart}>
 					Move to Cart
 				</button>{' '}
-				<button className='btn-primary' onClick={removeFromSavedList}>
+				<button className='btn-outline' onClick={removeFromSavedList}>
 					Remove
 				</button>
 			</div>

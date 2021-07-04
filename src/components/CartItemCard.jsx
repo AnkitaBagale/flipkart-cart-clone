@@ -53,7 +53,7 @@ export const CartItemCard = ({ product }) => {
 				<button onClick={saveForLater} className='btn-primary'>
 					Save for later
 				</button>{' '}
-				<button onClick={removeItem} className='btn-primary'>
+				<button onClick={removeItem} className='btn-outline'>
 					Remove from cart
 				</button>
 			</div>
